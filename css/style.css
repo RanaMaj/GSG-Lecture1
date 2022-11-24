@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.wrapper {
+    margin: 5vw;
+}
+
+.name .fieldset,
+.other-questions .fieldset {
+    padding: 1%;
+}
+
+.fname-form label,
+.lname-form label {
+    display: block;
+}
+
+h3 {
+    margin: 8px 2px;
+}
+
+button {
+    margin-top: 5px;
+}
